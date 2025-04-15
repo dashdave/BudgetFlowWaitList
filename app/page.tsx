@@ -93,7 +93,7 @@ useEffect(() => {
         
         <div className="flex items-center justify-center mb-12">          
           <span className="text-sm text-gray-600">
-            {subscriberCount > 0 ? `${subscriberCount}+ users joined already` : "Join our waitlist today!"}
+            {subscriberCount > 0 ? `${subscriberCount} users joined already` : "Join our waitlist today!"}
           </span>
         </div>
       </div>
