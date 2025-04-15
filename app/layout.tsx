@@ -1,9 +1,8 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "PromptlyBUilt",
+  title: "PromptlyBuilt",
   description: "Create a Beautiful Portfolio From Curated Templates",
 };
 
