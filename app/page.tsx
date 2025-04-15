@@ -28,7 +28,7 @@ useEffect(() => {
   }
   
   fetchSubscriberCount()
-}, [success]) // Refetch when success changes (i.e., after successful submission)// Refetch when success changes (i.e., after successful submission)
+}, [success]) // Refetch when success changes (i.e., after successful submission)
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target
@@ -50,7 +50,7 @@ useEffect(() => {
   }
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-white bg-[linear-gradient(to_right,#f0f0f0_1px,transparent_1px),linear-gradient(to_bottom,#f0f0f0_1px,transparent_1px)] bg-[size:24px_24px]">
+    <div className="min-h-screen flex items-center justify-center bg-white bg-[linear-gradient(to_right,rgba(220,220,220,0.3)_1px,transparent_1px),linear-gradient(to_bottom,rgba(220,220,220,0.3)_1px,transparent_1px)] bg-[size:24px_24px]">
       <div className="w-full max-w-2xl px-4 py-12 text-center">
         <div className="inline-flex items-center gap-1.5 rounded-full bg-white px-3 py-1 text-sm font-medium text-indigo-600 border border-gray-100 shadow-sm mb-6">
           <CalendarIcon className="h-4 w-4 text-indigo-600" />
