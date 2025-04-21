@@ -58,12 +58,12 @@ useEffect(() => {
         </div>
         
         <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900 mb-4">
-        Tell the AI About You. Get a Stunning Portfolio — Instantly.
+        Tell the AI About You. Get a Stunning Portfolio.
         </h1>
         
         <p className="text-lg text-gray-600 mb-8 max-w-xl mx-auto">
-        No more drag-and-drop. No coding. Just write a simple prompt, and our AI will generate a professional portfolio using curated templates, tailored to your style, your work, and your goals.
-        Perfect for designers, devs, and freelancers who want to stand out without wasting time.
+        Skip the drag-and-drop. Just write a prompt — we&apos;ll turn it into a beautiful, personalized portfolio in minutes.
+        Perfect for creatives who want to stand out without the hassle.
         </p>
         
         <div className="space-y-4 mb-8">
