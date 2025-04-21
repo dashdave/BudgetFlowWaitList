@@ -58,12 +58,12 @@ useEffect(() => {
         </div>
         
         <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900 mb-4">
-          Create a Beautiful Portfolio From Curated Templates
+        Tell the AI About You. Get a Stunning Portfolio — Instantly.
         </h1>
         
         <p className="text-lg text-gray-600 mb-8 max-w-xl mx-auto">
-          Join our exclusive waitlist to generate professional portfolio in minutes using stunning templates. Perfect
-          for designers, devs, and freelancers.
+        No more drag-and-drop. No coding. Just write a simple prompt, and our AI will generate a professional portfolio using curated templates, tailored to your style, your work, and your goals.
+        Perfect for designers, devs, and freelancers who want to stand out without wasting time.
         </p>
         
         <div className="space-y-4 mb-8">
@@ -81,7 +81,7 @@ useEffect(() => {
             className="w-full py-3 px-4 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-md transition-colors disabled:opacity-50"
             disabled={loading}
           >
-            {loading ? "Submitting..." : "Join Waitlist"}
+            {loading ? "Joining..." : "Join the Waitlist — It's Free"}
           </button>
         </div>
         
