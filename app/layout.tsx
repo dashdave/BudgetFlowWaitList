@@ -3,8 +3,8 @@ import "./globals.css";
 import { Analytics } from "@vercel/analytics/react"
 
 export const metadata: Metadata = {
-  title: "PromptlyBuilt",
-  description: "Create a Beautiful Portfolio From Curated Templates",
+  title: "BudgetFlow",
+  description: "Create a perfonalised budget tracker and monitor"
 };
 
 export default function RootLayout({

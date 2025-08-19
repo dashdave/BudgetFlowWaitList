@@ -58,12 +58,12 @@ useEffect(() => {
         </div>
         
         <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900 mb-4">
-        Tell BudgetFlow about your finance. Get a personal accountant, providing a smart budget and budget tracker
+        Manage your Finances with BudgetFlow, Get Smart with your Money
         </h1>
         
         <p className="text-lg text-gray-600 mb-8 max-w-xl mx-auto">
         Skip the speadsheet hassle, Just input your income - we&apos;ll craft a personalized budget in minutes. Perfect for anyone
-        ready to take coontrol of your money without stress. 
+        ready to take control of your money without stress. 
         </p>
         
         <div className="space-y-4 mb-8">
