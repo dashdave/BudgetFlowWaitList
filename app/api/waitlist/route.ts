@@ -37,7 +37,7 @@ export async function POST(request: Request) {
             We’re aiming for a big launch soon, and your input will shape it. Reply to this email with any ideas or questions—you’re part of the journey!
             Warm regards,
           </p>
-          <p style="margin-top:30px;color:#888888;font-size:13px;">— The PromptlyBuilt Team</p>
+          <p style="margin-top:30px;color:#888888;font-size:13px;">— The BudgetFlow Team</p>
         </div>
             `
         }
