@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import axios from "axios";
 const sk = process.env.SK
-const API_ENDPOINT = "https://script.google.com/macros/s/AKfycby8XFjA9N076ONxTLus7eDWddmlRNh2T6dnN82X22bCI4Zz56tG4N3mCWMdh24ln9zRWw/exec"
+const API_ENDPOINT = "https://script.google.com/macros/s/AKfycbxGKm-7JAYHPuQHXdWySluE6ZMRG__IH-cdE2GJ0oLQPhWeaIwxQ_Zt8MOCGpNbW8e3/exec"
 export async function POST(request: Request) {
     const requestBody = await request.json()
 
